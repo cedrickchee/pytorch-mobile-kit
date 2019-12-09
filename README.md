@@ -4,9 +4,7 @@
 
 **Demo**
 
-Coming soon! Stay tuned...
-
-<!-- TODO: add screencast -->
+![demo](https://raw.githubusercontent.com/cedrickchee/pytorch-mobile-kit/master/docs/demo.gif)
 
 ## Project Structure
 
