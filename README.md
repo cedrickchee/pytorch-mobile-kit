@@ -6,6 +6,8 @@
 
 ![demo](https://raw.githubusercontent.com/cedrickchee/pytorch-mobile-kit/master/docs/demo.gif)
 
+[Watch on YouTube](https://youtu.be/XivOksHKQCk).
+
 ## Project Structure
 
 The code for the Android project is in this [_PyTorchMobileKit_ directory](https://github.com/cedrickchee/pytorch-mobile-kit/tree/master/PyTorchMobileKit).
@@ -186,3 +188,22 @@ for (int i = 0; i < scores.length; i++) {
 String className = Constants.IMAGENET_CLASSES[maxScoreIdx];
 ```
 </details>
+
+## Background
+
+Previous attempts:
+
+- [PyTorch Lite](https://github.com/cedrickchee/pytorch-lite)
+- [PyTorch on Android](https://github.com/cedrickchee/pytorch-android)
+
+#### License
+
+This repository contains a variety of content; some developed by Cedric Chee, and some from third-parties. The third-party content is distributed under the license provided by those parties.
+
+*I am providing code and resources in this repository to you under an open source license.  Because this is my personal repository, the license you receive to my code and resources is from me and not my employer.*
+
+The content developed by Cedric Chee is distributed under the following license:
+
+**Code**
+
+The code in this repository is released under the [MIT license](LICENSE).
