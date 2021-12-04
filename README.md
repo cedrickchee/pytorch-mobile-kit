@@ -8,6 +8,14 @@
 
 [Watch on YouTube](https://youtu.be/XivOksHKQCk).
 
+---
+
+**New (Dec 2021)** Build AI-powered mobile apps in minutes with [PyTorch Live](https://pytorch.org/live/) (Beta).
+
+PyTorch Live brings together PyTorch and React Native, making it easier to build cross-platform mobile apps.
+
+Live give you an easy-to-use library of tools for bringing on-device AI demos to life -- easily integrate vision and language models into your apps.
+
 ## Project Structure
 
 The code for the Android project is in this [_PyTorchMobileKit_ directory](https://github.com/cedrickchee/pytorch-mobile-kit/tree/master/PyTorchMobileKit).
